@@ -1,9 +1,12 @@
 .super-mario {
     width: 200px;
+    vertical-align: -400px;
   }
   
   .goomba {
     width: 100px;
+    object-position: -20px;
+    vertical-align: -20px;
   }
   
   .baloon {
@@ -12,8 +15,11 @@
   
   .speach {
     font-size: 25px;
+    
   }
   
   .bowser {
     width: 200px;
+    vertical-align: -300px;
+
   }
